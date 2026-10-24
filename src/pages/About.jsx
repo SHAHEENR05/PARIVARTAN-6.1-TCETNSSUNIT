@@ -29,7 +29,7 @@ export default function About() {
               It is built around the theme <span className="font-display font-semibold italic text-ink">“{M.theme}”</span>: a pledge to nature and a choice for change. It treats care for the environment not as a one-day campaign but as a daily commitment, where every sapling planted, every street cleaned and every conversation about water, waste or health moves us a step closer to the change we want to see.
             </p>
             <p>
-              Across its pages, the magazine records twenty-five projects in health, environment, inclusion and national pride, alongside a faculty perspective, twenty student articles and eight poems in English, Hindi and Marathi. Together they show how a unit of young engineers lived the NSS motto, <span className="font-semibold text-ink">“Not Me But You”</span>, and what that service taught them.
+              Across its pages, the magazine records twenty-five projects in health, environment, society and education, alongside a faculty perspective, twenty student articles and eight poems in English, Hindi and Marathi. Together they show how a unit of young engineers lived the NSS motto, <span className="font-semibold text-ink">“Not Me But You”</span>, and what that service taught them.
             </p>
           </div>
         </div>
